@@ -22,7 +22,7 @@ if (userNumber) {
   return (
     <View style={styles.screen}>
       <Header title="Guess a Number" />
-      {content}
+      {content }
     </View>
   );
 }
